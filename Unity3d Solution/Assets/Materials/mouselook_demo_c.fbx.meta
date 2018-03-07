@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 7a2e39802a0398d44ae3019be765f2dc
+timeCreated: 1517087142
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Circle
+    100004: Cube
+    100006: damage
+    100008: damage.001
+    100010: Lamp
+    100012: Lamp.001
+    100014: Lamp.002
+    100016: LensMainGlow
+    100018: LensReflection.002
+    100020: Mesh.006
+    100022: //RootNode
+    100024: Plane
+    100026: Plane.001
+    100028: Plane.002
+    100030: Plane.004
+    100032: weed.010
+    100034: windows.009
+    100036: wood.000
+    100038: wood.007
+    400000: Camera
+    400002: Circle
+    400004: Cube
+    400006: damage
+    400008: damage.001
+    400010: Lamp
+    400012: Lamp.001
+    400014: Lamp.002
+    400016: LensMainGlow
+    400018: LensReflection.002
+    400020: Mesh.006
+    400022: //RootNode
+    400024: Plane
+    400026: Plane.001
+    400028: Plane.002
+    400030: Plane.004
+    400032: weed.010
+    400034: windows.009
+    400036: wood.000
+    400038: wood.007
+    2000000: Camera
+    2300000: Circle
+    2300002: Cube
+    2300004: damage
+    2300006: damage.001
+    2300008: LensMainGlow
+    2300010: LensReflection.002
+    2300012: Mesh.006
+    2300014: Plane
+    2300016: Plane.001
+    2300018: Plane.002
+    2300020: Plane.004
+    2300022: weed.010
+    2300024: windows.009
+    2300026: wood.000
+    2300028: wood.007
+    3300000: Circle
+    3300002: Cube
+    3300004: damage
+    3300006: damage.001
+    3300008: LensMainGlow
+    3300010: LensReflection.002
+    3300012: Mesh.006
+    3300014: Plane
+    3300016: Plane.001
+    3300018: Plane.002
+    3300020: Plane.004
+    3300022: weed.010
+    3300024: windows.009
+    3300026: wood.000
+    3300028: wood.007
+    4300000: Circle
+    4300002: wood.000
+    4300004: damage.001
+    4300006: LensReflection.002
+    4300008: LensMainGlow
+    4300010: Plane.002
+    4300012: Cube
+    4300014: Plane.001
+    4300016: weed.010
+    4300018: windows.009
+    4300020: wood.007
+    4300022: Mesh.006
+    4300024: Plane.004
+    4300026: Plane
+    4300028: damage
+    7400000: Cube|CameraAction.001
+    7400002: Cube|CubeAction
+    7400004: Camera|CameraAction.001
+    7400006: Camera|CubeAction
+    9500000: //RootNode
+    10800000: Lamp
+    10800002: Lamp.001
+    10800004: Lamp.002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glow
+    second: {fileID: 2100000, guid: 6a2b51f225f8f9b4ba721bbc000025be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 16ee907cafeb68e4b82fff8a28e7d24e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: e6764bfcd2ffb474c9d92fb0bce32ec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ReflectBlue
+    second: {fileID: 2100000, guid: ada56fd9656fa9340be92cc6dc7b1a38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barrel2
+    second: {fileID: 2100000, guid: 257fa027b01ca9843b4410473de9f01c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brick_wall
+    second: {fileID: 2100000, guid: c016a29a3443ffd498edc9c5d17283f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: collision
+    second: {fileID: 2100000, guid: 3c29869086b18474e8518fe949f79a83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete
+    second: {fileID: 2100000, guid: 1602790572edde94889267748ffeb8af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crate
+    second: {fileID: 2100000, guid: ba4ec161de23bf64d9e4c1e157ff94dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ladder
+    second: {fileID: 2100000, guid: d6f7768649fad2c4793462793fe92e9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palette
+    second: {fileID: 2100000, guid: 8dfd9d4c9043a184d8a57637fb189010, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: planks_beams
+    second: {fileID: 2100000, guid: 188eae18ab10bc5489e0c2bcb68664cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: planks_beams.001
+    second: {fileID: 2100000, guid: 188eae18ab10bc5489e0c2bcb68664cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sack
+    second: {fileID: 2100000, guid: 09f0efb77e2ac10429fee617cee260b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sheetMetal
+    second: {fileID: 2100000, guid: d6f7768649fad2c4793462793fe92e9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sidewalk
+    second: {fileID: 2100000, guid: a6ea19fa81765614da983f5d66907a93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stonewall
+    second: {fileID: 2100000, guid: 6f81877e4efefb94fa22d6e7fbd3057c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall
+    second: {fileID: 2100000, guid: c8c3f768b789ef347b41f17e3125fbf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: weeds
+    second: {fileID: 2100000, guid: e678b6a7d0199044fa65a3104f52b356, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windowsNoTrans
+    second: {fileID: 2100000, guid: 6306f92541c887642823030a62f39275, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
